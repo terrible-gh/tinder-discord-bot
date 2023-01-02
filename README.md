@@ -3,10 +3,15 @@
 Tinder Discord Bot
 This project is only for educational purpose.
 
-Commands : 
+Install :
+- Node.JS Latest version
+- npm install
+- npm i discord.js
+- npm i node-cron
+- node index.js
 
-Prefix : !
 
+Commands :
 - !Likes @Mention
 - !clear-likes
 
