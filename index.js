@@ -7,7 +7,7 @@ const cron = require('node-cron');
 const emoji = '❤️';
 
 // Remplacez "TOKEN" par votre token de bot
-client.login('MTA1ODg4MjA4MTUwNzI2NjU5MA.GASbNK.Rg3DzXNPfFGVuzNohpQaYUwmLl66WRLOztWAqg');
+client.login('TOKEN');
 
 // tableau pour stocker tous les likes
 let likes = [];
